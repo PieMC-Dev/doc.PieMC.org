@@ -3,7 +3,7 @@
 Resource Packs & Behaviour Packs
 ================================
 
-PocketMine-MP has some support for resource packs.
+PieMC has some support for resource packs.
 
 Any number of valid resource packs may be loaded. However, per-world resource packs are not currently supported at the time of writing.
 
