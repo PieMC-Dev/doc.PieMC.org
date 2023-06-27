@@ -1,7 +1,7 @@
-PocketMine-MP Documentation
+PieMC Documentation
 ===========================
 
-This repository contains the source files for http://doc.pmmp.io/.
+This repository contains the source files for http://PieMC-Dev.github.io/docs/.
 
 The documentation is built and hosted by https://readthedocs.org/.
 
