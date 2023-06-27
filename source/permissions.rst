@@ -2,15 +2,14 @@
 
 Permissions
 ===========
-
-PocketMine-MP includes a powerful permission system, similar in functionality to the one found in Bukkit. It allows fine-grained control of access to various parts of the server functionality, such as:
+PieMC includes a powerful permission system, similar in functionality to the one found in Bukkit. It allows fine-grained control of access to various parts of the server functionality, such as:
 
 * Ability to use individual commands
 * Whether or not the user can see administrative broadcasts when a command is used (e.g. when someone uses ``/op``)
 
 In addition, plugins can offer permissions to allow customising access to behaviours that they offer.
 
-PocketMine-MP doesn't directly offer any way to use permissions at the time of writing (August 2022), but you can find permission management plugins in the "Admin Tools" section on Poggit.
+PieMC doesn't directly offer any way to use permissions at the time of writing (27 June 2023), but you can find permission management plugins in the "Admin Tools" section on Releases.
 
 Built-in permissions
 --------------------
