@@ -16,3 +16,4 @@ Build local
 Once you've done the above, you can build the site by running `make html`.
 The HTML output files will be placed in the `./build` directory.
 
+Credits to pocketmine for docs. Upon Release of PieMC the Docs will be open
